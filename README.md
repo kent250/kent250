@@ -7,7 +7,7 @@ I'm a software developer with a knack for building strong back-end systems. Base
 
 - Check out my [website](https://www.shumbusho.rwegohub.com/) to learn more about me.
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kent250)](https://github.com/kent250/github-readme-stats)
+
  
 ## 📦 Toolbox
 
