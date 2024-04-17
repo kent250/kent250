@@ -1,15 +1,14 @@
 ### Hey, I'm Shumbusho 👋🏽  
 
-I'm a Software developer but my true strength lies in architecting robust back-end systems. Am based in Rwanda :flag_rwanda:, and I'm passionate about crafting digital experiences. 
+I'm a software developer with a knack for building strong back-end systems. Based in 🇷wanda, I'm passionate about creating amazing digital experiences. 
 
 - Check out my [website](https://www.shumbusho.rwegohub.com/) to learn more about me.
-- Explore my [blog](https://mirayatech.hashnode.dev/?source=top_nav_blog_home) where I share insights and learnings.
-- Check out [VSCode Configuration](https://github.com/mirayatech/vscode-settings) for development optimization.
+
 
  
 ## 📦 Toolbox
 
-**Frontend Development:** `Vue.Js` `Bootstrap` `Tailwind` `Bootstrap Studio`
+**Frontend Development:** `Vue.Js` `Bootstrap` `Tailwind`
  
 **Version Control:** `Git`
 
@@ -19,13 +18,13 @@ I'm a Software developer but my true strength lies in architecting robust back-e
 
 **Testing:** `Postman`
 
-**Others:** `Figma` `Adobe Xd` `Arduino` `Adobe Illustator`
+**Others:** `Figma` `Adobe Xd` `Arduino` `Adobe Illustator` `Bootstrap Studio`
  
 ## ✨ Fun Facts 
 
-- Demon Slayer is my favorite anime.
-- As a kid, I wanted to be an astronaut.
-- I love using Mac after switching from Linux.
+- Video Games are my hobby too.
+- I own a Screen printing business check it out here [website](https://www.freshinkgarments.com/).
+- I love using Windows
 
 ## 📫 Contact
 
