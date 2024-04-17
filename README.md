@@ -23,10 +23,11 @@ I'm a software developer with a knack for building strong back-end systems. Base
 ## ✨ Fun Facts 
 
 - Video Games are my hobby too.
-- I own a Screen printing business check it out here [website](https://www.freshinkgarments.com/).
-- I love using Windows
+- I own a Screen printing business called [Fresh Ink Garments](https://www.freshinkgarments.com/).
+  
 
 ## 📫 Contact
 
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/irumva-shumbusho/). 
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/irumva-shumbusho/).
+ or, DM me on [Whatsapp]([https://www.linkedin.com/in/irumva-shumbusho/](https://wa.me/+250783741533)).
  
