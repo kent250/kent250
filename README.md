@@ -1,6 +1,6 @@
 ### Hey, I'm Shumbusho 👋🏽  
 
-I'm a Software developer but my truth power lies in back-end development based in Rwanda 🇷🇼, and I'm passionate about crafting digital experiences. 
+I'm a Software developer but my true strength lies in architecting robust back-end systems. Am based in Rwanda :flag_rwanda:, and I'm passionate about crafting digital experiences. 
 
 - Check out my [website](https://www.shumbusho.rwegohub.com/) to learn more about me.
 - Explore my [blog](https://mirayatech.hashnode.dev/?source=top_nav_blog_home) where I share insights and learnings.
