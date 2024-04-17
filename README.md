@@ -29,5 +29,5 @@ I'm a software developer with a knack for building strong back-end systems. Base
 ## 📫 Contact
 
  For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/irumva-shumbusho/).
- or, DM me on [Whatsapp]([https://www.linkedin.com/in/irumva-shumbusho/](https://wa.me/+250783741533)).
+ or, DM me on [Whatsapp](https://wa.me/+250783741533)).
  
