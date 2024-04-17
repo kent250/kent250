@@ -3,7 +3,7 @@
 
 ### Hey, I'm Shumbusho 👋🏽  
 
-I'm a software developer with a knack for building strong back-end systems. Based in 🇷wanda, I'm passionate about creating amazing digital experiences. 
+I'm a software developer with a knack for building strong back-end systems. Based in Rwanda, I'm passionate about creating amazing digital experiences. 
 
 - Check out my [website](https://www.shumbusho.rwegohub.com/) to learn more about me.
 
