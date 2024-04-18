@@ -1,4 +1,4 @@
-![Alt text](gitbanner.png)
+![Shumbusho Irumva github banner image](gitbanner.png)
 
 
 ### Hey, I'm Shumbusho 👋🏽  
