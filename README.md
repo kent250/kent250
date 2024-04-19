@@ -17,7 +17,7 @@ I'm a software developer with a knack for building strong back-end systems. Base
 
 **Backend Development:** `Node.js` `Laravel`
 
-**Database:** `MariaDb` `SQLite`
+**Database:** `MariaDb` `SQLite` `MongoDB`
 
 **Testing:** `Postman`
 
