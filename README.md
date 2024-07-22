@@ -16,18 +16,13 @@ I'm a software developer with a knack for building strong back-end systems. Base
 
 **Backend Development:** `Node.js` `Laravel`
 
-**Database:** `MariaDb` `SQLite` `MongoDB`
+**Database:** `MySQL` `MongoDB`
 
-**Testing:** `Postman`
+**Testing:** `Postman`, `Swagger UI`
 
 **Others:** `Figma` `Adobe Xd` `Arduino` `Adobe Illustator` `Bootstrap Studio`
  
-## ✨ Fun Facts 
-
-- Video Games are my hobby too.
-- I own a Screen printing business called [Fresh Ink Garments](https://www.freshinkgarments.com/).
   
-
 ## 📫 Contact
 
  For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/irumva-shumbusho/).
