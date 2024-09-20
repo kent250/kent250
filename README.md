@@ -14,9 +14,11 @@ I'm a software developer with a knack for building strong back-end systems. Base
  
 **Version Control:** `Git`
 
-**Backend Development:** `Node.js` `Laravel`
+**Backend Development:** `Node.js` `Laravel` `Express.js`
 
-**Database:** `MySQL` `MongoDB`
+**Database:** `MySQL` `MongoDB` `PostgreSQL`
+
+**ORM:** `Sequelize`
 
 **Testing:** `Postman`, `Swagger UI`
 
