@@ -18,7 +18,7 @@ I'm a software developer with a knack for building strong back-end systems. Base
 
 **Database:** `MySQL` `MongoDB` `PostgreSQL`
 
-**ORM:** `Sequelize`
+**ORM:** `Sequelize` `Drizzle ORM`
 
 **Testing:** `Postman`, `Swagger UI`
 
