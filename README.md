@@ -10,7 +10,7 @@ I'm a software developer with a knack for building strong back-end systems. Base
  
 ## 📦 Toolbox
 
-**Frontend Development:** `Vue.Js` `Bootstrap` `Tailwind`
+**Frontend Development:** `Vue.Js` `Next.js` `Bootstrap` `Tailwind`
  
 **Version Control:** `Git`
 
